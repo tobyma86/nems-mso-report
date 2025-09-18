@@ -11,8 +11,8 @@ The final project contains this starter setup. You may adapt it as needed, but p
 
 ```
 .
-├── README.md           # Project documentation
-├── report.pdf          # Report
+├── README.md                               # Project documentation
+├── report (NEMS volunteering).pdf          # Report
 
 
 ```
