@@ -2,7 +2,7 @@
 
 ## Summary
 
-This report delineates the classification of insurance claim entries, and analyzes the data for the Managed Service Organization (MSO) at North East Medical Services (NEMS). Central to this analysis is a payment summary table derived from NEMS's medical management database, which encompasses individual insurance claim summaries from various providers to HPSM from July 2024 to March 2025. Each entry incorporates key data fields, and the raw dataset has been omitted to ensure HIPAA compliance. The analysis highlights critical areas for strategic improvement, including a high prevalence of "Balance Due" claims, significant seasonal fluctuations, and data inconsistencies.
+This report delineates the classification of insurance claim entries, and analyzes the data for the [Managed Service Organization (MSO)](https://nemsmso.org/) at [North East Medical Services (NEMS)](https://nems.org/). Central to this analysis is a payment summary table derived from NEMS's medical management database, which encompasses individual insurance claim summaries from various providers to HPSM from July 2024 to March 2025. Each entry incorporates key data fields, and the raw dataset has been omitted to ensure HIPAA compliance. The analysis highlights critical areas for strategic improvement, including a high prevalence of "Balance Due" claims, significant seasonal fluctuations, and data inconsistencies.
 
 ## Key Findings
 ### Financial Strain from Outstanding Balances
